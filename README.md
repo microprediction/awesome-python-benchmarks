@@ -2,6 +2,9 @@
 
 Statistical benchmarking of python packages.  
 
+## Machine-learning benchmarks
+
+* [Papers with Code] contains many benchmarks in different categories. For instance the [ImageNet classificatin](https://paperswithcode.com/sota/image-classification-on-imagenet) lists papers and methods that have performed well. 
 
 ## Python time-series benchmarking
 
