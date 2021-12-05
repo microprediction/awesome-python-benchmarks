@@ -5,7 +5,7 @@ Statistical benchmarking for python packages
 
 ## Python time-series benchmarking
 
-* [Code for M5 winning methods](https://github.com/Mcompetitions/M5-methods/tree/master/Code%20of%20Winning%20Methods) lists winning methods. For example the [LightGBM approach document](https://github.com/Mcompetitions/M5-methods/blob/master/Code%20of%20Winning%20Methods/U1/M5%20Winning%20Submission.docx) can be found there alongside other winners. 
+* [MCompetitions](https://github.com/Mcompetitions) repository lists winning methods for the M4 and [M5](https://github.com/Mcompetitions/M5-methods/tree/master/Code%20of%20Winning%20Methods) contests. For example the [LightGBM approach document](https://github.com/Mcompetitions/M5-methods/blob/master/Code%20of%20Winning%20Methods/U1/M5%20Winning%20Submission.docx) can be found there, alongside other winners. 
 
 * [Time-Series Elo ratings](https://microprediction.github.io/timeseries-elo-ratings/html_leaderboards/overall.html) considers methods for autonomous univariate prediction of relatively short sequences (400 lags) and ranks performance on predictions from 1 to 34 steps ahead. 
 
