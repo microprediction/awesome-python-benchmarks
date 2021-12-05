@@ -12,6 +12,7 @@ Statistical benchmarking of python packages.
 
 * [Time-Series Elo ratings](https://microprediction.github.io/timeseries-elo-ratings/html_leaderboards/overall.html) considers methods for autonomous univariate prediction of relatively short sequences (400 lags) and ranks performance on predictions from 1 to 34 steps ahead. 
 
+* Papers with code has a couple of benchmarks such as [etth1](https://paperswithcode.com/sota/time-series-forecasting-on-etth1-24). 
 
 
 ## Python black-box derivative free benchmarking
