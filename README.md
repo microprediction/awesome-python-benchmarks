@@ -1,5 +1,6 @@
 # awesome-python-benchmarks
-Benchmarking for python packages 
+
+Statistical benchmarking for python packages 
 
 
 ## Python time-series benchmarking
